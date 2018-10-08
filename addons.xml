@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <addons>
-<addon id="plugin.program.easyinstaller" name="[COLOR cyan]Easy[COLOR yellow] Installer[/COLOR]" version="0.0.2" provider-name="AznVN">
+<addon id="plugin.program.easyinstaller" name="[COLOR cyan]Easy[COLOR yellow] Installer[/COLOR]" version="0.0.3" provider-name="AznVN">
 	<requires>
 	</requires>
 	<extension point="xbmc.python.pluginsource" library="default.py">
