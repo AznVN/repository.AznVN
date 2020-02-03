@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<addon id="plugin.video.conggiao" name="[COLOR blue][B]CongGiao[/B][/COLOR]" version="0.0.1" provider-name="AznVN">
+<addon id="plugin.video.conggiao" name="[COLOR blue][B]CongGiao[/B][/COLOR]" version="0.0.2" provider-name="AznVN">
 	<requires>
 	</requires>
 	<extension point="xbmc.python.pluginsource" library="conggiao.py">
